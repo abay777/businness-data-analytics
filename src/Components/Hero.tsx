@@ -20,7 +20,7 @@ export const Hero:React.FC = () => {
                 /> 
             </div>
             <p className='md:text-2xl font-bold text-gray-500'>Monitor your data analytics to increase revenue for BTB,BTC & SASS platforms</p>
-            <button className='bg-[#d1d930] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black'>Get started</button>
+            <button className='bg-[#d1d930] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black hover:bg-white'>Get started</button>
         </div>
    </div>
   )
